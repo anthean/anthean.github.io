@@ -1,13 +1,13 @@
 # anthean.github.io
 
 Assignment points completed: 14
-Readme is complete (1 point)
+ [Readme is complete (1 point)
 Basic HTML content (3)
 Basic css styling (3)
 Advanced feature (1) -> navigation bar
 Responsive layout (3) -> fade up/right, scrolling navigation, fits mobile device screen\
 Validation checks (1) -> HTML and CSS W3C validated and alt text for images
-Embracing the spirit of the assignment (2) -> added a little song at the end! added small details to UI
+Embracing the spirit of the assignment (2) -> added a little song at the end! added small details to UI]
 
 List of features included and styling:
 - navigation links
