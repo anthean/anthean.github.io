@@ -1,19 +1,3 @@
-/*color references:
-
-  dark: #252421;
-  darkest-red: #B63621;
-  dark-red: #D14027;
-  standard-red: #D56350;
-  light-red: #EA846C;
-  lightest-red: #F1927C;
-
-  green (chaider): #9FD6AB;
-  turquoise (cartoon): #9FD6D2;
-  lavender (bots): #86B1D0;
-  yellow (chicken): #F5D56F;
-
-*/
-
 html,
 body {
     height: 100%;
@@ -26,7 +10,7 @@ body {
 body {
     font-family: "Helvetica", "Arial", sans-serif;
     letter-spacing: 2%;
-    background: #fffefc;
+    background: radial-gradient(circle, rgb(240, 242, 240) 0%, rgb(244, 249, 243) 50%);
     color: #252421;
 }
 
