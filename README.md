@@ -2,4 +2,4 @@
 
 
 
-hello, stalker! i'm trying to make a portfolio
+hello stalker! i'm trying to make a portfolio
