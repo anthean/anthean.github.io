@@ -2,4 +2,4 @@
 
 
 
-hiya stalker -- i'm trying to make a portfolio :D
+hiya! -- i'm trying to make a portfolio :D
